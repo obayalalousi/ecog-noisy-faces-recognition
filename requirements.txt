@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn>=0.13.0
+scipy
+nilearn
+nimare
